@@ -24,4 +24,4 @@ self.__dynamic$config = {
 	},
 	block: [],
 	challenge=true
-config=true pnpm start
+config=true npm start
