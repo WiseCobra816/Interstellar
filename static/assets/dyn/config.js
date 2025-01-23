@@ -24,4 +24,6 @@ self.__dynamic$config = {
 	},
 	block: [],
 	challenge=true
-config=true npm start
+git clone https://github.com/UseInterstellar/Interstellar
+cd Interstellar
+npm run start
